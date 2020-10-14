@@ -16,9 +16,9 @@
 			"entity": "RollTable"
 		}
 	],
-	"esmodules": ["scripts/index.js"],
-	"styles": ["token-mold.css"],
-	"manifest": "https://raw.githubusercontent.com/Moerill/token-mold/master/module.json",
-	"url": "https://github.com/Moerill/token-mold",
-	"download": "https://github.com/Moerill/token-mold/releases/download/v2.10.1/v2.10.1.zip"
+	"esmodules": [ "scripts/index.js" ],
+	"styles": [ "token-mold.css" ],
+	"manifest": "https://raw.githubusercontent.com/tibeggs/token-mold-tim/main/module.json",
+	"url": "https://github.com/tibeggs/token-mold-tim",
+	"download": "https://github.com/tibeggs/token-mold-tim/archive/v1.zip"
 }
